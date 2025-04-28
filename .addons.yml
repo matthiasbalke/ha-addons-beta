@@ -1,0 +1,7 @@
+---
+channel: beta
+addons:
+  collabora-code:
+    repository: matthiasbalke/addon-collabora-code
+    target: collabora-code
+    image: ghcr.io/matthiasbalke/collabora-code/{arch}
