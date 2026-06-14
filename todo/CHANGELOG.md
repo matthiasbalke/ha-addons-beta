@@ -1,31 +1,12 @@
 ## What's Changed
-* initial non feature complete version of todo
 
-## Features
-* passkey authentication
-* account management
-  * add multiple passkeys
-  * delete own account
-* lists
-  * share lists
-  * group lists
-  * categories per list
-* list items
-  * start items
-  * add due date
-  * assign to list member
-  * assign to category
-  * add notes 
-  * sort
-    * manual
-    * alphabetical
-    * due date
-    * starred
-    * created
-  * filter
-    * starred only
-    * has due date
-    * hide future due dates
-    * not assigned
-    * assigned to me
-    * assigned to others
+# Features
+
+* UI unification
+* Today View
+
+# Maintenance
+* bump com.bucket4j:bucket4j_jdk17-core from 8.18.0 to 8.19.0
+* Upgrade Spring Gradle plugins to 2.4.0
+
+**Full Changelog**: https://github.com/matthiasbalke/todo/compare/0.1.0...0.2.0
