@@ -1,6 +1,7 @@
 ## What's Changed
 
-### Features
-* Added admin area for instance and user management by @matthiasbalke in https://github.com/matthiasbalke/todo/pull/146
+### Bugfix
+* Secure admin setup with token by @matthiasbalke in https://github.com/matthiasbalke/todo/pull/147
 
-**Full Changelog**: https://github.com/matthiasbalke/todo/compare/0.3.0...0.4.0
+
+**Full Changelog**: https://github.com/matthiasbalke/todo/compare/0.4.0...0.4.1
