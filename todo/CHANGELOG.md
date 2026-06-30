@@ -1,7 +1,7 @@
 ## What's Changed
 
-### Bugfix
-* Secure admin setup with token by @matthiasbalke in https://github.com/matthiasbalke/todo/pull/147
+### Bugfixes
+* persist list group state by @matthiasbalke in https://github.com/matthiasbalke/todo/pull/151
 
 
-**Full Changelog**: https://github.com/matthiasbalke/todo/compare/0.4.0...0.4.1
+**Full Changelog**: https://github.com/matthiasbalke/todo/compare/0.4.1...0.4.2
